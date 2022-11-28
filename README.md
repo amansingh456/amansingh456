@@ -4,7 +4,10 @@
 
 ### I do Web Development. I really enjoy learning languages and frameworks like React and Next.
 
-Skills:  REACT / JS / HTML / CSS
+## Skills
+* ⚛️ React
+* 💻 JavaScript
+* </> HTML, CSS 
 
 - 🌱 I’m currently learning MERN Stack 
 
