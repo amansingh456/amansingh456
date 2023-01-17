@@ -13,7 +13,7 @@
  <img src="https://github.com/chakra-ui/chakra-ui/blob/main/media/logomark-colored.svg" title="Chakra UI" alt="Chakra UI" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+ <img src="https://img.icons8.com/nolan/2x/1A6DFF/C822FF/express-js.png" title="Express" alt="Express" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -25,7 +25,7 @@
   
 ### ©️ Contact Me :
   
-[<img src='https://img.icons8.com/nolan/512/github.png' alt='github' height='40'>](https://github.com/amansingh456)  [<img src='https://img.icons8.com/nolan/2x/1A6DFF/C822FF/linkedin-circled.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/aman690)  [<img src='https://img.icons8.com/nolan/2x/1A6DFF/C822FF/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/aman__singh__rajawat)  [<img src='https://img.icons8.com/nolan/2x/1A6DFF/C822FF/internet.png' alt='website' height='40'>](https://amansingh456.github.io/)  
+[<img src='https://img.icons8.com/nolan/512/github.png' title="Github" alt='github' height='40'>](https://github.com/amansingh456)  [<img src='https://img.icons8.com/nolan/2x/1A6DFF/C822FF/linkedin-circled.png' title="Linkedin" alt='linkedin' height='40'>](https://www.linkedin.com/in/aman690)  [<img src='https://img.icons8.com/nolan/2x/1A6DFF/C822FF/instagram-new.png' title="Instagram" alt='instagram' height='40'>](https://www.instagram.com/aman__singh__rajawat)  [<img src='https://img.icons8.com/nolan/2x/1A6DFF/C822FF/internet.png' title="Portfolio" alt='website' height='40'>](https://amansingh456.github.io/)  
 
  
 ### 📛 Badges :  
