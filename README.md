@@ -25,7 +25,7 @@
   
 ### ©️ Contact Me :
   
-[<img src='https://img.icons8.com/nolan/512/github.png' title="Github" alt='github' height='40'>](https://github.com/amansingh456)  [<img src='https://img.icons8.com/nolan/2x/1A6DFF/C822FF/linkedin-circled.png' title="Linkedin" alt='linkedin' height='40'>](https://www.linkedin.com/in/aman690)  [<img src='https://img.icons8.com/nolan/2x/1A6DFF/C822FF/instagram-new.png' title="Instagram" alt='instagram' height='40'>](https://www.instagram.com/aman__singh__rajawat)  [<img src='https://img.icons8.com/nolan/2x/1A6DFF/C822FF/internet.png' title="Portfolio" alt='website' height='40'>](https://amansingh456.github.io/)  
+[<img src='https://img.icons8.com/nolan/512/github.png' title="Github" alt='github' height='40'>](https://github.com/amansingh456)  [<img src='https://img.icons8.com/nolan/2x/1A6DFF/C822FF/linkedin-circled.png' title="Linkedin" alt='linkedin' height='40'>](https://www.linkedin.com/in/aman690)    [<img src='https://img.icons8.com/nolan/2x/1A6DFF/C822FF/internet.png' title="Portfolio" alt='website' height='40'>](https://amansingh456.github.io/)  
 
  
 ### 📛 Badges :  
