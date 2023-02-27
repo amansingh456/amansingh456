@@ -2,7 +2,7 @@
 # Hi 👋, This is 
 ![](https://github.com/amansingh456/amansingh456/blob/main/Aman-Banner.png)
 
-## A passionate frontend developer from India,Motivated and innovative aspiring full-stack web developer with hands-on experience in building websites with MERN stack and various web technologies including HTML, CSS, and JS. Curious to learn about emerging web technologies. Looking forward to making a significant contribution to an organization through dedicated effort.
+### A passionate frontend developer from India,Motivated and innovative aspiring full-stack web developer with hands-on experience in building websites with MERN stack and various web technologies including HTML, CSS, and JS. Curious to learn about emerging web technologies. Looking forward to making a significant contribution to an organization through dedicated effort.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
