@@ -39,13 +39,13 @@
 
  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amansingh456)  
+
   
 ![Profile views](https://gpvc.arturio.dev/amansingh456)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=amansingh456)   
   
-![GitHub metrics](https://metrics.lecoq.io/amansingh456)  
+ 
 
 
 
