@@ -2,7 +2,7 @@
 # Hi 👋, This is 
 ![](https://github.com/amansingh456/amansingh456/blob/main/amanBackground.png)
 
-### A passionate frontend developer from India,Motivated and innovative aspiring full-stack web developer with hands-on experience in building websites with MERN stack and various web technologies including HTML, CSS, and JS. Curious to learn about emerging web technologies. Looking forward to making a significant contribution to an organization through dedicated effort.
+### Passionate Full Stack developer with expertise in MERN stack, Go, Node.js, MongoDB, and modern frameworks like React and Next.js. Skilled in crafting seamless UIs, building robust backend services, and implementing solutions like KYC flows, bank integrations, and automation bots. Continuously exploring emerging web technologies to deliver innovative and impactful solutions.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
