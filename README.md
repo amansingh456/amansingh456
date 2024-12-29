@@ -2,7 +2,7 @@
 # Hi 👋, This is 
 ![](https://github.com/amansingh456/amansingh456/blob/main/amanBackground.png)
 
-### Passionate Full Stack developer with expertise in MERN stack, Go, Node.js, MongoDB, and modern frameworks like React and Next.js. Skilled in crafting seamless UIs, building robust backend services, and implementing solutions like KYC flows, bank integrations, and automation bots. Continuously exploring emerging web technologies to deliver innovative and impactful solutions.
+### Passionate Full Stack developer with expertise in MERN stack, GoLang and modern frameworks like React.js and Next.js. Skilled in crafting seamless UIs, building robust backend services, and implementing solutions like KYC flows, bank integrations, and automation bots. Continuously exploring emerging web technologies to deliver innovative and impactful solutions.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
